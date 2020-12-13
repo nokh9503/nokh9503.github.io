@@ -9,7 +9,7 @@
 # --------------------------
 title: 코딩이 싫은 컴공                    # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: 내가 인공지능이고 인공지능이 나인 물아일체의 경지가 되려고 하는 바보  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -21,7 +21,7 @@ url: 'https://nokh9503.github.io'
 
 author: nokh9503                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg   # support internet resources
+avatar: /assets/img/profile/me1.png   # support internet resources
 
 github:
   username: nokh9503             # change to your github username
